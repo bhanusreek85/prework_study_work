@@ -1,2 +1,2 @@
-# prework_study_giode
+# prework_study_guide
 my study guide
